@@ -1,4 +1,4 @@
-# Sticky_Shoee_Protocol 
+# Sticky_Shoe_Protocol 
 
 Gathers all systems info from a Windows Computer. Including Wifi passwords, DNS cache, file tree, all installed programs, all currently running programs, all open ports as well as the local ip and mac-address to name but a few. 
 
