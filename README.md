@@ -13,3 +13,8 @@ When the program runs, it not only saves all the info to the .bat file. It also 
 This will act as a fail save to insure that only those who know how the program works can get to the data in question.  
 
 The only way to view the .bat file is to "right click" on it, and open it with a text editor like notepad++. 
+
+
+
+
+I have attached the working .jar file as well as the java code for the project. And before any of you eagle eye viewers point it out, I am well aware that the code can be greatly simplified with the use of a well constructed method or two.  I Just haven't had time to fine tune the code. 
