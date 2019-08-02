@@ -2,7 +2,7 @@
 
 Gathers all systems info from a Windows Computer. Including Wifi passwords, DNS cache, file tree, all installed programs, all currently running programs, all open ports as well as the local ip and mac-address to name but a few. 
 
-This program was designed to be deployed via USB. (Plug the usb in to the computer and run the jar file. 
+This program was designed to be deployed via USB. (Plug the usb in to the computer and run the jar file) 
 
 The program takes between 10 and 15 seconds to run. Deering this time it will display NO PROGRESS BAR. It will give no indication that anything is happening other than appearance of a new .bat file in the same directory as the .jar file. As you might have thought, this .bat file contains all the gathered systems info. 
 
