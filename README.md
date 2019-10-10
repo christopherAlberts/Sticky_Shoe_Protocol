@@ -8,7 +8,7 @@ The program takes between 10 and 15 seconds to run. During this time it will dis
 
 **DO NOT CLICK ON THE BAT FILE!!!!!!!!!!!!!!!!!!**   
 
-When the program runs, it not only saves all the info to the .bat file. It also creates a Seppuku Protocol. What this means is that when the .bat file is clicked it will not only kill itself, but the .jar file and the needed WifiInfo.ps1 file.  
+When the program runs, it not only saves all the info to the .bat file. It also creates a Seppuku Protocol. What this means is that when the .bat file is clicked it will not only kill itself, but it will also remove the .jar file and the needed WifiInfo.ps1 file.  
 
 This will act as a fail save to insure that only those who know how the program works can get to the data in question.  
 
